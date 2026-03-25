@@ -1,2 +1,3 @@
 # Calculator Project
-I was making a Calculator Project that consists of numbers and letter grades together.
+## Description
+It can calculates the numbers with each letter grade in it.
